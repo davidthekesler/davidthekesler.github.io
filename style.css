@@ -1,15 +1,47 @@
-
 body {
-	font: 16px Montserrat, Sans-Serif;
-	background: url(noise.png);
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
 }
 
-#content-info {
-	margin: 0 0 16px 0;
-	padding: 0 0 16px 0;
-	font-size: 42px;
-	font-weight: bold;
-	letter-spacing: -2px;
-	border-bottom: 1px solid #999;
+h1 {
+  font-family: Monterserrat, 'Palatino Linotype', serif;
+  color: rgb(52,105,162);
+	font-size: 32px;
 }
+
+h2 {
+	font-size: 56px;
+}
+
+
+.hero {
+  color: #ffffff;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	padding: 250px 0;
+	margin: 30px;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
+  background-size: cover;
+  
+}
+
+
+p {
+
+  font-size: 2rem;
+}
+
+.hero a {
+	color: #00FFAA;
+	font-size: 1.5em;
+	text-decoration: none;
+}
+
+#footer {
+  
+ font-size: 0.75rem;
+}
+
+
 
