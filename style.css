@@ -1,3 +1,17 @@
+#container {
+	margin-top: 10px;
+	margin-left: 200px;
+	margin-right: 200px;
+
+	padding: 10px 150px 10px 150px;
+
+	border-radius: 15px;
+	background-color: #C2CECI;
+
+	text-align: left;
+}
+
+
 body {
 	height: 100%;
 	margin: 0;
@@ -5,43 +19,26 @@ body {
 	width: 100%;
 }
 
+
+
 h1 {
   font-family: Monterserrat, 'Palatino Linotype', serif;
   color: rgb(52,105,162);
-	font-size: 32px;
+	font-size: 58px;
 }
 
 h2 {
-	font-size: 56px;
+	font-size: 38px;
 }
 
-
-.hero {
-  color: #ffffff;
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;
-	padding: 250px 0;
-	margin: 30px;
-  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
-  background-size: cover;
-  
+h3 {
+	font-size: 25px;
 }
 
-
-p {
-
-  font-size: 2rem;
+h4 {
+	font-size: 16px;
 }
 
-.hero a {
-	color: #00FFAA;
-	font-size: 1.5em;
-	text-decoration: none;
-}
-
-#footer {
-  
- font-size: 0.75rem;
-}
 
 
 
