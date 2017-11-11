@@ -2,41 +2,40 @@
 	margin-top: 10px;
 	margin-left: 20px;
 	margin-right: 20px;
-
 	padding: 10px 150px 10px 150px;
 	text-align: center;
 }
-
 
 #container2 {
 	margin-top: 10px;
 	margin-left: 20px;
 	margin-right: 20px;
-
 	padding: 10px 150px 10px 150px;
-
 	border-radius: 15px;
 	background-color: #b4c2ce;
 	text-align: left;
 }
 
 
-
 h1 {
   font-family: Monterserrat, 'Palatino Linotype', serif;
-	font-size: 80px;
+	font-size: 64px;
+	margin-bottom: -25px;
 }
 
 h2 {
-	font-size: 52px;
+	font-size: 38px;
+	margin-bottom: -15px;
 }
 
 h3 {
 	font-size: 28px;
+	margin-bottom: -10px;
 }
 
 h4 {
-	font-size: 12px;
+	font-size: 16px;
+	margin-bottom: -6px;
 }
 
 
